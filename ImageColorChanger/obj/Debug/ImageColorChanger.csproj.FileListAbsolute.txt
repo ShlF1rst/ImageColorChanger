@@ -1,0 +1,9 @@
+C:\Users\User\lab2gr\ShadesOfGray\bin\Debug\ShadesOfGray.exe.config
+C:\Users\User\lab2gr\ShadesOfGray\bin\Debug\ShadesOfGray.exe
+C:\Users\User\lab2gr\ShadesOfGray\bin\Debug\ShadesOfGray.pdb
+C:\Users\User\lab2gr\ShadesOfGray\obj\Debug\ShadesOfGray.Form1.resources
+C:\Users\User\lab2gr\ShadesOfGray\obj\Debug\ShadesOfGray.Properties.Resources.resources
+C:\Users\User\lab2gr\ShadesOfGray\obj\Debug\ImageColorChanger.csproj.GenerateResource.cache
+C:\Users\User\lab2gr\ShadesOfGray\obj\Debug\ImageColorChanger.csproj.CoreCompileInputs.cache
+C:\Users\User\lab2gr\ShadesOfGray\obj\Debug\ShadesOfGray.exe
+C:\Users\User\lab2gr\ShadesOfGray\obj\Debug\ShadesOfGray.pdb

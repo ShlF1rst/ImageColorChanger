@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ImageColorChanger\ImageColorChanger\bin\Release\ImageColorChanger.exe.config
+C:\Users\User\Desktop\ImageColorChanger\ImageColorChanger\bin\Release\ImageColorChanger.exe
+C:\Users\User\Desktop\ImageColorChanger\ImageColorChanger\bin\Release\ImageColorChanger.pdb
+C:\Users\User\Desktop\ImageColorChanger\ImageColorChanger\obj\Release\ShadesOfGray.Form1.resources
+C:\Users\User\Desktop\ImageColorChanger\ImageColorChanger\obj\Release\ImageColorChanger.Properties.Resources.resources
+C:\Users\User\Desktop\ImageColorChanger\ImageColorChanger\obj\Release\ImageColorChanger.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ImageColorChanger\ImageColorChanger\obj\Release\ImageColorChanger.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ImageColorChanger\ImageColorChanger\obj\Release\ImageColorChanger.exe
+C:\Users\User\Desktop\ImageColorChanger\ImageColorChanger\obj\Release\ImageColorChanger.pdb
